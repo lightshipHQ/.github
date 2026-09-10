@@ -1,6 +1,6 @@
-# Lightship
+# LightShip
 
-Lightship helps domain experts monitor and improve production AI agents—without waiting for
+LightShip helps domain experts monitor and improve production AI agents—without waiting for
 engineering.
 
 We provide governed access to agent traces across the tools teams already use, while ensuring each
@@ -8,7 +8,7 @@ person sees only the customers, agents, teams, and environments they are authori
 
 ## What we’re building
 
-- [Lightship](https://github.com/lightshipHQ/lightship) — policy-controlled access to OpenTelemetry
+- [LightShip](https://github.com/lightshipHQ/lightship) — policy-controlled access to OpenTelemetry
   traces in ClickHouse for humans and AI coding agents.
 
 ## Explore
@@ -18,5 +18,6 @@ person sees only the customers, agents, teams, and environments they are authori
 - [Hosted demo](https://lightship-production.up.railway.app/)
 - [GitHub project](https://github.com/lightshipHQ/lightship)
 
-Lightship is open source and currently in early access. We’re building it to make autonomous work
-trustworthy and governable—and we’d love feedback from teams operating AI agents in production.
+LightShip is open source and currently in early access. We want to help make autonomous work
+trustworthy and governable. If your team operates AI agents in production, tell us what LightShip
+should support next.

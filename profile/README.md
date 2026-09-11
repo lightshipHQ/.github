@@ -4,12 +4,12 @@ LightShip helps domain experts monitor and improve production AI agents—withou
 engineering.
 
 We provide governed access to agent traces across the tools teams already use, while ensuring each
-person sees only the customers, agents, teams, and environments they are authorized to access.
+person sees only the customers, agents, teams they are authorized to access.
 
 ## What we’re building
 
 - [LightShip](https://github.com/lightshipHQ/lightship) — policy-controlled access to OpenTelemetry
-  traces in ClickHouse for humans and AI coding agents.
+  traces for humans and AI coding agents.
 
 ## Explore
 

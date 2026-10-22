@@ -15,7 +15,6 @@ person sees only the customers, agents, teams they are authorized to access.
 
 - [Website](https://lightship.sh/)
 - [Documentation](https://lightship.mintlifysite.com/)
-- [Hosted demo](https://lightship-production.up.railway.app/)
 - [GitHub project](https://github.com/lightshipHQ/lightship)
 
 LightShip is open source and currently in early access. We want to help make autonomous work
